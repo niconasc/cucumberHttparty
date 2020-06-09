@@ -1,5 +1,5 @@
-# Automação Siena
-Este projeto tem como objetivo automatizar os testes regressivos do sistema **Siena**
+# Automação Ruby + Httparty + Rspec
+Este projeto tem como objetivo automatizar testes com **Ruby** + **Httparty** + **Rspec**
 
 ## Tecnologias utilizadas
 * [Ruby 2.6.3](https://www.ruby-lang.org/pt/downloads/) - Program Language
